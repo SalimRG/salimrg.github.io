@@ -1,0 +1,68 @@
+body{
+	padding: 0;
+	background-image: url(blue-sky-hd-wallpaper-1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.box{
+	width: 450;
+	background: rgba(0,0,0,0.2);
+	padding: 40px;
+	text-align: center;
+	margin: auto;
+	margin-top: 5%;
+	color/ white;
+	font-family: 'Century Gothic',sans-serif;
+}
+.box2 {
+	width: 410px;
+	background: rgba(0,0,0,0.2);
+	padding: 20px;
+	text-align: center;
+	margin: auto;
+	margin-top: 5%;
+}
+.box-img{
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+}
+.box-h1{
+	font-size: 40px;
+	letter-spacing: 40px;
+	font-weight: 100;
+}
+.box-h5{
+	font-size: 25px;
+	letter-spacing: 3px;
+	font-weight: 100;	
+}
+.box-p{
+	text-align: justify;
+}
+ ul{
+	 margin: 5;
+	 padding: 5;
+ }
+ .box li{
+	display: inline-block; 
+	margin: 6px;
+	list-style: none;
+ }
+ .box li a{
+	 color: #0b173c;
+	 text-decoration: none;
+	 font-size: 30px;
+	 transition: all ease-in-out 250ms;	 
+ }
+ .box li a:hover{
+	 color: #b9b9b9; 
+ }
+ .box button{		
+		font-size: 17px;
+		font-weight: 20; 
+ }
+ #ButtonCV{		
+		background-color: transparent;
+		color:black;	
+}
